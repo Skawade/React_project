@@ -1,5 +1,5 @@
 import React from "react";
-import Products from "./componants/Products";
+import Products from "./components/Products";
 
 
 function App() {
