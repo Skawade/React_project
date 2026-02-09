@@ -20,6 +20,9 @@ If you are developing a production application, we recommend using TypeScript wi
 ## 🚀 Live Demo
 https://skawade.github.io/React_project/
 
+## Netlify Demo
+https://admirable-stardust-fc9286.netlify.app/
+
 ## 📂 GitHub Repository
 https://github.com/skawade/React_project
 
